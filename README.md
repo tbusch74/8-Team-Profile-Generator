@@ -31,6 +31,8 @@
   
   ## Questions
 
+  Visit https://watch.screencastify.com/v/XzrGNf3tBt0ErKHSgcrS to see a video of the app in action!
+
   View this project and my other projects at <https://github.com/tbusch74>
 
   Please reach out to <abusch@css.edu> with any other questions.
