@@ -18,7 +18,7 @@ function generateJobCards(teamMemberArray) {
                             <h6 class="card-subtitle mb-2 text-muted">${teamMember.getRole()}</h6>
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item">Employee ID: ${teamMember.id}</li>
-                                <li class="list-group-item">Employee Email: <a href="${teamMember.email}">${teamMember.email}</li>
+                                <li class="list-group-item">Employee Email: <a href="mailto:${teamMember.email}">${teamMember.email}</li>
                                 <li class="list-group-item">${generateRoleSpecificInfo(teamMember)}</li>
                             </ul>
                         </div>
