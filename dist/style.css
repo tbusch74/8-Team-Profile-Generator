@@ -1,0 +1,28 @@
+.navbar{
+    padding: 20px;
+    background: rgb(2,0,36);
+    background: red;
+    font-size: large;
+}
+
+.navbar-text{
+    font-size: 52px;
+    color: rgba(255, 255, 255, 0.576);
+}
+
+.card-title,
+.card-subtitle{
+    background: cornflowerblue;
+    margin: 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.card{
+    margin: 20px;
+    background:  rgba(248, 238, 238, 0.953);
+}
+
+.row{
+    justify-content: space-around;
+}
